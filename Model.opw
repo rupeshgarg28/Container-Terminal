@@ -1,0 +1,38 @@
+[RESOURCES]
+South Quay I
+Return_Truck
+Berth_Crane
+Second Container Berth III
+Second Container Berth II
+West Quay IV
+West Quay I
+West Quay II
+South Quay II
+North Quay
+Second Container Berth I
+West Quay III
+Terminal_Staff
+Centre Quay
+Transfer Crane
+[VARIABLES]
+Liquid Bulk Berthing.NumberIn
+Berth Assignment.NumberIn
+Berth Assignment.NumberOut
+Return to berth.NumberOut
+Break Bulk Berthing.NumberIn
+Break Bulk Berthing.NumberOut
+Return to berth.NumberIn
+Liquid Bulk Berthing.NumberOut
+Container Berthing.NumberOut
+Sent back to ship.NumberOut
+Container Berthing.NumberIn
+Vessel Arrival.NumberOut
+Sent to gates.NumberOut
+Damage Check.NumberOut False
+Transfering Commodity to Storage Yard.NumberOut
+Transfering Commodity to Storage Yard.NumberIn
+Dry Bulk Berthing.NumberIn
+Dry Bulk Berthing.NumberOut
+Damage Check.NumberOut True
+Loading on Truck.NumberIn
+Loading on Truck.NumberOut

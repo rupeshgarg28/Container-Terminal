@@ -1,0 +1,143 @@
+
+                                      ARENA Simulation Results
+                                   RUPESH GARG - License: STUDENT
+
+                                  Summary for Replication 1 of 1
+
+Project: Unnamed Project                                             Run execution date : 4/18/2022
+Analyst: RUPESH GARG                                                 Model revision date: 4/18/2022
+
+Replication ended at time      : 720.0 Hours 
+Base Time Units: Hours
+
+                                           TALLY VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Observations
+___________________________________________________________________________________________________
+
+Total TIme                                  6.9848     (Insuf)    4.8056     18.745        108    
+Entity 1.VATime                             6.5095     (Insuf)    4.5838     16.904        109    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000        109    
+Entity 1.WaitTime                           .31081     (Insuf)    .00000     4.4216        109    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000        109    
+Entity 1.OtherTime                          .19908     (Insuf)    .10000     .20000        109    
+Entity 1.TotalTime                          7.0194     (Insuf)    4.8056     18.745        109    
+Loading on Truck.Queue.WaitingTime          .28907     (Insuf)    .00000     4.4216        109    
+Break Bulk Berthing.Queue.WaitingTime       .07663     (Insuf)    .00000     1.7625         23    
+Container Berthing.Queue.WaitingTime        .00000     (Insuf)    .00000     .00000         52    
+Dry Bulk Berthing.Queue.WaitingTime         .00000     (Insuf)    .00000     .00000          9    
+Liquid Bulk Berthing.Queue.WaitingTime      .02334     (Insuf)    .00000     .60693         26    
+Transfering Commodity to Storage Yard.Queu  .00000     (Insuf)    .00000     .00000        108    
+Berth Assignment.Queue.WaitingTime          .00000     (Insuf)    .00000     .00000        110    
+Return to berth.Queue.WaitingTime           .00000     (Insuf)    .00000     .00000          1    
+
+                                     DISCRETE-CHANGE VARIABLES
+
+Identifier                                  Average   Half Width  Minimum    Maximum   Final Value
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                1.0635     (Insuf)    .00000     3.0000     1.0000    
+South Quay I.NumberBusy                     .10449     (Insuf)    .00000     1.0000     .00000    
+South Quay I.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+South Quay I.Utilization                    .10449     (Insuf)    .00000     1.0000     .00000    
+Return_Truck.NumberBusy                      1.3889E-4 (Insuf)    .00000     1.0000     .00000    
+Return_Truck.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Return_Truck.Utilization                     1.3889E-4 (Insuf)    .00000     1.0000     .00000    
+Berth_Crane.NumberBusy                      .60556     (Insuf)    .00000     1.0000     .00000    
+Berth_Crane.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Berth_Crane.Utilization                     .60556     (Insuf)    .00000     1.0000     .00000    
+Second Container Berth III.NumberBusy       .09851     (Insuf)    .00000     1.0000     1.0000    
+Second Container Berth III.NumberScheduled  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Second Container Berth III.Utilization      .09851     (Insuf)    .00000     1.0000     1.0000    
+Second Container Berth II.NumberBusy        .09851     (Insuf)    .00000     1.0000     1.0000    
+Second Container Berth II.NumberScheduled   1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Second Container Berth II.Utilization       .09851     (Insuf)    .00000     1.0000     1.0000    
+West Quay IV.NumberBusy                     .07772     (Insuf)    .00000     1.0000     .00000    
+West Quay IV.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+West Quay IV.Utilization                    .07772     (Insuf)    .00000     1.0000     .00000    
+West Quay I.NumberBusy                      .08922     (Insuf)    .00000     1.0000     .00000    
+West Quay I.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+West Quay I.Utilization                     .08922     (Insuf)    .00000     1.0000     .00000    
+West Quay II.NumberBusy                     .16693     (Insuf)    .00000     1.0000     .00000    
+West Quay II.NumberScheduled                1.0000     (Insuf)    1.0000     1.0000     1.0000    
+West Quay II.Utilization                    .16693     (Insuf)    .00000     1.0000     .00000    
+South Quay II.NumberBusy                    .19371     (Insuf)    .00000     1.0000     .00000    
+South Quay II.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+South Quay II.Utilization                   .19371     (Insuf)    .00000     1.0000     .00000    
+North Quay.NumberBusy                       .08922     (Insuf)    .00000     1.0000     .00000    
+North Quay.NumberScheduled                  1.0000     (Insuf)    1.0000     1.0000     1.0000    
+North Quay.Utilization                      .08922     (Insuf)    .00000     1.0000     .00000    
+Second Container Berth I.NumberBusy         .09851     (Insuf)    .00000     1.0000     1.0000    
+Second Container Berth I.NumberScheduled    1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Second Container Berth I.Utilization        .09851     (Insuf)    .00000     1.0000     1.0000    
+West Quay III.NumberBusy                    .07772     (Insuf)    .00000     1.0000     .00000    
+West Quay III.NumberScheduled               1.0000     (Insuf)    1.0000     1.0000     1.0000    
+West Quay III.Utilization                   .07772     (Insuf)    .00000     1.0000     .00000    
+Terminal_Staff.NumberBusy                   .07639     (Insuf)    .00000     1.0000     .00000    
+Terminal_Staff.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Terminal_Staff.Utilization                  .07639     (Insuf)    .00000     1.0000     .00000    
+Centre Quay.NumberBusy                      .07772     (Insuf)    .00000     1.0000     .00000    
+Centre Quay.NumberScheduled                 1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Centre Quay.Utilization                     .07772     (Insuf)    .00000     1.0000     .00000    
+Transfer Crane.NumberBusy                   .01200     (Insuf)    .00000     1.0000     .00000    
+Transfer Crane.NumberScheduled              1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Transfer Crane.Utilization                  .01200     (Insuf)    .00000     1.0000     .00000    
+Loading on Truck.Queue.NumberInQueue        .04376     (Insuf)    .00000     2.0000     .00000    
+Break Bulk Berthing.Queue.NumberInQueue     .00245     (Insuf)    .00000     1.0000     .00000    
+Container Berthing.Queue.NumberInQueue      .00000     (Insuf)    .00000     .00000     .00000    
+Dry Bulk Berthing.Queue.NumberInQueue       .00000     (Insuf)    .00000     .00000     .00000    
+Liquid Bulk Berthing.Queue.NumberInQueue     8.4296E-4 (Insuf)    .00000     1.0000     .00000    
+Transfering Commodity to Storage Yard.Queu  .00000     (Insuf)    .00000     .00000     .00000    
+Berth Assignment.Queue.NumberInQueue        .00000     (Insuf)    .00000     .00000     .00000    
+Return to berth.Queue.NumberInQueue         .00000     (Insuf)    .00000     .00000     .00000    
+
+                                             COUNTERS
+
+Identifier                                    Count   Limit
+_____________________________________________________________
+
+Number of Vessels                               108  Infinite
+No of Damaged Vessels                             1  Infinite
+
+                                             OUTPUTS
+
+Identifier                                   Value
+_____________________________________________________________
+
+Entity 1.NumberIn                           110.00    
+Entity 1.NumberOut                          109.00    
+South Quay I.NumberSeized                   32.000    
+South Quay I.ScheduledUtilization           .10449    
+Return_Truck.NumberSeized                   1.0000    
+Return_Truck.ScheduledUtilization            1.3889E-4
+Berth_Crane.NumberSeized                    109.00    
+Berth_Crane.ScheduledUtilization            .60556    
+Second Container Berth III.NumberSeized     52.000    
+Second Container Berth III.ScheduledUtiliz  .09851    
+Second Container Berth II.NumberSeized      52.000    
+Second Container Berth II.ScheduledUtiliza  .09851    
+West Quay IV.NumberSeized                   23.000    
+West Quay IV.ScheduledUtilization           .07772    
+West Quay I.NumberSeized                    26.000    
+West Quay I.ScheduledUtilization            .08922    
+West Quay II.NumberSeized                   49.000    
+West Quay II.ScheduledUtilization           .16693    
+South Quay II.NumberSeized                  58.000    
+South Quay II.ScheduledUtilization          .19371    
+North Quay.NumberSeized                     26.000    
+North Quay.ScheduledUtilization             .08922    
+Second Container Berth I.NumberSeized       52.000    
+Second Container Berth I.ScheduledUtilizat  .09851    
+West Quay III.NumberSeized                  23.000    
+West Quay III.ScheduledUtilization          .07772    
+Terminal_Staff.NumberSeized                 110.00    
+Terminal_Staff.ScheduledUtilization         .07639    
+Centre Quay.NumberSeized                    23.000    
+Centre Quay.ScheduledUtilization            .07772    
+Transfer Crane.NumberSeized                 108.00    
+Transfer Crane.ScheduledUtilization         .01200    
+System.NumberOut                            109.00    
+
+
+Simulation run time: 0.82 minutes.
+Simulation run complete.
